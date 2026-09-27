@@ -1,0 +1,17 @@
+name: BetterCape
+version: 0.14.x_0.15.10
+author: VeoZax
+api: ["VeoZaxAPI"]
+softdepend: ["EconomyAPI"]
+load: STARTUP
+main: VeoZaxAPI\Skin
+website: https://github.com/VeoZaxOfficial
+description: A simple cape system for VeoZaxSMP. now it's public for everyone! enjoy :D
+commands:
+  bettercape:
+    permission: bettercape.cmd
+    description: Change your cape from in game
+    usage: /BetterCape [CapeName] <Player>
+permissions:
+  bettercape.cmd:
+    default: true

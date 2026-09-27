@@ -1,0 +1,12 @@
+RemoveCapeOnJoin: false
+
+AntiMemberCMDusage: "You cannot run this command as console!"
+UnsupportedVersion: "§r§8[§bBetter§cCAPES§8]§r §cYour Minecraft version is not supported by this plugin! Please upgrade your version to §a0.15.10§c version."
+
+CapeOnChange: "§r§8[§bBetter§cCAPES§8]§r §aYour cape has been changed successfully!"
+CapeUnavailable: "§r§8[§bBetter§cCAPES§8]§r §cThat cape does not exist! Please check the name and try again."
+CapesAvailable: "§r§8[§bBetter§cCAPES§8]§r §eAvailable Capes:"
+Cape: "Cape: {cape}"
+CapeOnPurchase: "§r§8[§bBetter§cCAPES§8]§r §fYou purchased the§b {cape} §ffor§a ${price} §fcoins!"
+NotEnoughMoney: "§r§8[§bBetter§cCAPES§8]§r §cYou §4do not§c have enough money for that §4cape!§c You need§4 {needed} §cmore coins."
+EconomyPluginMissing: "§r§8[§bBetter§cCAPES§8]§r §cCape purchases are currently §4unavailable, §cplease contact an §badmin."
