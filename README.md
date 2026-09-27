@@ -28,7 +28,7 @@ All settings and in-game messages are in `config.yml`
 
 ## Plugin introduction and Tutorial
 
-Full setup and usage walkthrough on YouTube: **[Watch here](https://youtu.be/nJxDBt8eyOE?si=W9po972fe8TgnP3V)**
+Full setup and usage walkthrough on YouTube: **[Watch here]([https://youtu.be/nJxDBt8eyOE?si=W9po972fe8TgnP3V](https://youtu.be/UFFrJecCCbI?si=RdvFOtwYHmNR2HkQ))**
 
 ---
 ## 🤝 Contributing
